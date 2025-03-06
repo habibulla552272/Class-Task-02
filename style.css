@@ -241,8 +241,19 @@ footer{
     padding-top: 8px;
     
 }
-.footer-left {
 
+.section-last{
+    background-color: rgba(5,84, 109,1);
+    color: whitesmoke;
+}
+.footerlast{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.footerlast i{
+    padding: 5px;
 }
 
 @media(max-width:742px) {
